@@ -1,0 +1,37 @@
+[
+  {
+    "Name": "Sema",
+    "Surname": "Tehmezova",
+    "Email": "sema@gmail.com",
+    "Phone": "070-541-41-48",
+    "Date": "2023-10-14T11:48:50.4036883+04:00"
+  },
+  {
+    "Name": "Nezrin",
+    "Surname": "Quliyeva2",
+    "Email": "nezrin@gmail.com",
+    "Phone": "050-207-35-35",
+    "Date": "2004-07-03T11:41:55"
+  },
+  {
+    "Name": "Aynur",
+    "Surname": "Abbasova",
+    "Email": "aynur@gmail.com",
+    "Phone": "070-222-23-32",
+    "Date": "2023-10-14T11:48:50.4036883+04:00"
+  },
+  {
+    "Name": "Ali",
+    "Surname": "Aliyev",
+    "Email": "ali@gmail.com",
+    "Phone": "050-200-32-32",
+    "Date": "2004-07-03T11:41:55"
+  },
+  {
+    "Name": "Akif",
+    "Surname": "Memmedov",
+    "Email": "akif@gmail.co",
+    "Phone": "050-211-10-10",
+    "Date": "2004-10-25T17:16:28"
+  }
+]
